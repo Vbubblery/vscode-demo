@@ -1,2 +1,2 @@
-FROM debian:buster-slim
+FROM debian:buster-backports
 USER root
