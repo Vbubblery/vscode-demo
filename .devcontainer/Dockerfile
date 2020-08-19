@@ -1,2 +1,1 @@
-FROM debian:buster-backports
-USER root
+FROM mcr.microsoft.com/vscode/devcontainers/base:debian
